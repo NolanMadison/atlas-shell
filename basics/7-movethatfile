@@ -1,2 +1,2 @@
 #!/bin/bash
-mv betty /root/atlas-shell/tmp/my_first_directory
+mv betty /tmp/my_first_directory/
